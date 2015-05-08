@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExperiments", "WpfExperiments\WpfExperiments.csproj", "{37B7B716-1ACC-4CE8-8A53-8E2B1B3F749A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{90A2E282-1C1C-4AE9-ACD5-105DFC7FE275}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B7B716-1ACC-4CE8-8A53-8E2B1B3F749A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B7B716-1ACC-4CE8-8A53-8E2B1B3F749A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B7B716-1ACC-4CE8-8A53-8E2B1B3F749A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B7B716-1ACC-4CE8-8A53-8E2B1B3F749A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
